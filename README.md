@@ -15,6 +15,6 @@ bước 6: `git push origin [tên nhánh]`
 
 ## Xóa 
 `git restore [ten file] `//quay lai phien bản cũ của file đó
-`git reset --hard [link] `// ->link nay la link cua file mà muốn nó quay lại phiên bản đó
+`git reset --hard [link] `// ->link nay la link cua file mà muốn nó quay lại phiên bản đó, xóa những file trước file[link] đó
 
 
