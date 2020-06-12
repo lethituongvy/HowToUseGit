@@ -14,7 +14,7 @@ bước 5: `gitk // kiem tra file`
 bước 6: `git push origin [tên nhánh] ` "-f"  
 
 ## Xóa 
-`git restore [ten file] `//quay lai phien bản cũ của file đó
+`git restore [ten file] `//quay lai phien bản cũ của file đó  
 `git reset --hard [link] `// ->link nay la link cua file mà muốn nó quay lại phiên bản đó, xóa những file trước file[link] đó
 
 
